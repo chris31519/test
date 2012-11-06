@@ -27,6 +27,10 @@ Older tasks:
 * ~~Fix dropdowns going off screen problem~~ (Completed 31/10/12 - 12:45)
 * ~~Validate dropdowns in buyer/create, yachtshare/create,actionstep/create`~~ (Completed 04/11/12 12:00)
 
+Dad's Comments
+===============================
+* -- We have logon for phpmyadmin wiil play with that today. thanks for adding me to github(nov 6)
+
 
 
 *Installation (by Evan)*
