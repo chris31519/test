@@ -1,3 +1,31 @@
+Buyer enquiry and introduction emails are cc: to admin
+Forgot password does not work Fatal error: Call to undefined method stdClass::save() in /home/sites/yacht-fractions.co.uk/public_html/fuel/app/classes/controller/session.php on line 59
+Offline mode – check that the data can be backed up and restored locally – this is not working right for me
+http://yacht-fractions.co.uk/emailtemplate/edit/1 
+Editing email templates does not work
+Fatal error: Class 'Controller_Email' not found in /home/sites/yacht-fractions.co.uk/public_html/fuel/app/classes/controller/emailtemplate.php on line 74
+
+
+http://yacht-fractions.co.uk/buyer/create
+Leave this page alert on clicking submit
+Save for later does not work – remove this button
+
+http://yacht-fractions.co.uk/seller/create 
+SAVE FOR Later does not work – we need to have this
+SUBMIT gives warning message
+
+http://yacht-fractions.co.uk/formfieldbuyer/edit/89 
+Form fields change UPDATE and BACK to SAVE and CANCEL  -- BACK does not work BTW
+http://yacht-fractions.co.uk/yachtshare/view/2
+Change location and appearance of reminder as described previously
+http://yacht-fractions.co.uk/data
+Remove list of exports as this is not updating
+http://yacht-fractions.co.uk/file/yachtshare/30
+No files are being listed for any existing boats. They need to be listed and copied over for all boats. A newly created share is OK (mariposa test 4)
+
+
+
+
 #Testing
 
 ## Buyer
